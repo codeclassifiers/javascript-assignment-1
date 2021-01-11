@@ -1,10 +1,9 @@
-// Q1. Write code in the below function to print area of sqaure
-const pi = 3.14;
-function areaOfSquare(piInputValue, radiusInputValue) {
+// Q1. Write code in the below function to print area of square
+function areaOfSquare(sideInputValue) {
     // Your code here
 
 }
-areaOfSquare(pi, 3);
+areaOfSquare(3);
 
 
 // Q2. Write a function to convert meters to centimeters
